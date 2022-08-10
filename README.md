@@ -1,0 +1,2 @@
+# Dev-Advocacy
+A cohort-based program designed to onboard and empower existing and aspiring developers to the NEAR + Aurora ecosystem. This program will be managed by the Developer Advocate Manager and operated by city-specific Developer Advocates who will teach about NEAR at local events, provide technical support online, actively engage with crypto Twitter, contribute to working groups, and build open source tools.
